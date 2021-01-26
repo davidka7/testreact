@@ -1,1 +1,2 @@
-# A small app, only one migration file. No deep relationships, just to show knowledge of backend ruby and front end react skill. A website with couple routes, one to edit and customize a mini version of a jeopardy game and the other route to actually play it with friends. 
+# Step by step instruction of the Small app
+![Alt text](/relative/path/to/1.png?raw=true "Optional Title")
