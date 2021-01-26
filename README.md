@@ -4,9 +4,9 @@
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/1.png)
 # Link to a different route
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/2.png)
-# Here you have all cards from the backend
+# Here you have all the cards from the backend
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/3.png)
-# Here you opened a modal to update a card, Choose the amount of points someone can earn, the question, its answer, and its general topic
+# Here you opened a modal to update a card, Chose the amount of points someone can earn, the question, its answer, and its general topic
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/4.png)
 # Link to a different route
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/5.png)
