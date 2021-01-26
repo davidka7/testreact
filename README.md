@@ -10,10 +10,10 @@
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/4.png)
 # Link to a different route
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/5.png)
-
+# Game time
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/6.png)
-
+# Opened a card
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/7.png)
-
+# Guessed? Now reveal the answer
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/8.png)
 
