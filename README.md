@@ -14,6 +14,6 @@
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/6.png)
 # Opened a card
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/7.png)
-# Guessed? Now reveal the answer
+# Go through all the cards, after each guess reveal the answer by clicking the button under the question!
 ![alt text](https://github.com/davidka7/testreact/blob/main/images/8.png)
 
