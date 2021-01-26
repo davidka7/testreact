@@ -5,3 +5,11 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+6.times do |i|
+    Jep.create(
+      topic: "topic",
+      question: 'the question',
+      answer: 'the answer',
+      point: 300
+    )
+  end

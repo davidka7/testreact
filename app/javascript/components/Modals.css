@@ -1,0 +1,54 @@
+
+.hover1 {
+    display: block;
+   
+    position: relative;
+  
+   
+  }
+  .hover1 .go-corner {
+    opacity: 0.2;
+  }
+  .hover1:hover {
+    border: 1px solid #254346;
+    box-shadow: 0px 0px 99px 99px rgba(218, 214, 214, 0.5);
+    z-index: 500;
+  }
+  
+  .hover1:hover p {
+    color: #23767c;
+  }
+  .hover1:hover .go-corner {
+    -webkit-transition: opactiy 0.8s linear;
+    transition: opactiy 0.8s linear;
+    opacity: 1;
+  }
+  
+
+.outliners{
+  background-color:rgb(146, 146, 155) !important;
+    justify-content: center;
+   align-items: center;
+    font-family: Arial;
+    
+   
+    line-height: 30px;
+    font-weight: bold;
+    color: rgb(54, 43, 43);
+    padding: 40px;
+    box-shadow: 0 0 0 10px rgb(156, 156, 160);
+    outline: dashed 10px #616060;
+  
+}
+
+
+.z300-size{
+    max-height: 9vw !important; 
+    max-width:15vw !important ;
+
+}
+
+.fonty{
+    font-size: 1vw !important;
+   
+}

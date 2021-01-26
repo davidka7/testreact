@@ -51,3 +51,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "webpacker", "~> 5.2"
+gem 'mini_racer', platforms: :ruby
+
+gem "bootstrap", "~> 4.5"
